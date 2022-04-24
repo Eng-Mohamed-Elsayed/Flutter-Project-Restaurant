@@ -29,15 +29,9 @@
   
   ### ScreenShots
   <div>
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/1-1.png" width="150" height="300">
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/1.png" width="150" height="300">
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/2.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/2-2.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/2-3.png" width="150" height="300">
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/3.png" width="150" height="300">
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/4.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/5.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/6.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/7.png" width="150" height="300" >
-    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppEducation-kids-1/blob/master/assets/ScreenShots/8.png" width="150" height="300" >
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-Project-Restaurant/blob/master/assets/screenshots/1.png" width="150" height="300">
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-Project-Restaurant/blob/master/assets/screenshots/2.png" width="150" height="300">
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-Project-Restaurant/blob/master/assets/screenshots/3.png" width="150" height="300" >
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-Project-Restaurant/blob/master/assets/screenshots/4.png" width="150" height="300" >
+  
   </div>
